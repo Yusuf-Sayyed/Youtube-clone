@@ -1,0 +1,20 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "Youtube clone app to watch and upload videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Tailwind",
+    "css",
+    "javascript",
+    "frontend",
+    "backend",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
